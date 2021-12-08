@@ -1,0 +1,14 @@
+C:\Users\tes5a\source\repos\Workers\Workers\bin\Debug\netcoreapp3.1\Workers.exe
+C:\Users\tes5a\source\repos\Workers\Workers\bin\Debug\netcoreapp3.1\Workers.deps.json
+C:\Users\tes5a\source\repos\Workers\Workers\bin\Debug\netcoreapp3.1\Workers.runtimeconfig.json
+C:\Users\tes5a\source\repos\Workers\Workers\bin\Debug\netcoreapp3.1\Workers.runtimeconfig.dev.json
+C:\Users\tes5a\source\repos\Workers\Workers\bin\Debug\netcoreapp3.1\Workers.dll
+C:\Users\tes5a\source\repos\Workers\Workers\bin\Debug\netcoreapp3.1\Workers.pdb
+C:\Users\tes5a\source\repos\Workers\Workers\obj\Debug\netcoreapp3.1\Workers.csproj.AssemblyReference.cache
+C:\Users\tes5a\source\repos\Workers\Workers\obj\Debug\netcoreapp3.1\Workers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tes5a\source\repos\Workers\Workers\obj\Debug\netcoreapp3.1\Workers.AssemblyInfoInputs.cache
+C:\Users\tes5a\source\repos\Workers\Workers\obj\Debug\netcoreapp3.1\Workers.AssemblyInfo.cs
+C:\Users\tes5a\source\repos\Workers\Workers\obj\Debug\netcoreapp3.1\Workers.csproj.CoreCompileInputs.cache
+C:\Users\tes5a\source\repos\Workers\Workers\obj\Debug\netcoreapp3.1\Workers.dll
+C:\Users\tes5a\source\repos\Workers\Workers\obj\Debug\netcoreapp3.1\Workers.pdb
+C:\Users\tes5a\source\repos\Workers\Workers\obj\Debug\netcoreapp3.1\Workers.genruntimeconfig.cache
